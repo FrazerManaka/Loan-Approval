@@ -1,0 +1,8 @@
+This is a basic bank loan approval system. Here's a brief overview of each part:
+
+We define three classes: Customer, LoanApplication, and Bank.
+The Bank class has methods to apply for loans and process applications.
+The core logic is in the _evaluate_application method, which uses a point-based system to decide whether to approve a loan.
+The main block at the bottom demonstrates how to use the system with some example customers and loan applications.
+
+To run this code, execute the file using Python. The output will show the results of the example loan applications.
